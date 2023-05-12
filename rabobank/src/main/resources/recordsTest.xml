@@ -1,0 +1,9 @@
+<records>
+  <record reference="143221">
+    <accountNumber>NL69ABNA0433647324</accountNumber>
+    <description>Subscription for Erik de Vries</description>
+    <startBalance>44.49</startBalance>
+    <mutation>+18.42</mutation>
+    <endBalance>62.91</endBalance>
+  </record>
+</records>

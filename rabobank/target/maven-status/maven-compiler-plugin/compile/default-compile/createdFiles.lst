@@ -1,0 +1,13 @@
+com/rabobank/csp/service/Parser.class
+com/rabobank/csp/exception/InvalidFileTypeException.class
+com/rabobank/csp/entities/Records.class
+com/rabobank/csp/utils/Utility.class
+com/rabobank/csp/entities/Record.class
+com/rabobank/csp/exception/ValidationException.class
+com/rabobank/csp/main/CustomerStatementProcessor.class
+com/rabobank/csp/service/CsvParser.class
+com/rabobank/csp/service/XmlParser.class
+com/rabobank/csp/validation/Validator.class
+com/rabobank/csp/service/ParserFactory.class
+com/rabobank/csp/exception/InvalidCSVException.class
+com/rabobank/csp/consts/Constants.class
